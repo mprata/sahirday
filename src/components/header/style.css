@@ -196,6 +196,10 @@ header.fixed .header-content {
 	.header-content .contact-info-1 span{
 		display: none;
 	}
+	.header-row {
+		width: 100%;
+		justify-content: space-between;
+	}
 }
 
 

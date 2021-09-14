@@ -14,12 +14,12 @@ const Header2 = () => {
         <div className="middle-header header-style-3">
             <div className="container">
                 <div className="header-content">
-                    <div className="row">
+                    <div className="row header-row">
                         <div className="col-lg-3 col-md-4 col-sm-4 col-4">
                             <div className="logo">
                                 <Link to="/home" title="">
                                     <img style={{ height: '66px' }} src={Logo} alt="" />
-                                    SahirdayFoundation
+                                    Sahirday
                                 </Link>
                             </div>
                         </div>

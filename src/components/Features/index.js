@@ -23,7 +23,6 @@ const Features = (props) => {
                             </div>
                             <h2>SahirdayFoundation is Nonprofit Organization To Serve The Needy.</h2>
                             <p>SAHIRDAY FOUNDATION is a non government organisation based in Agra and other cities of India as well. The organisation has hundreds of volunteers. As the organisation has taken birth in an engineering college therefore most of our volunteers come from an engineering background. Another thing that is common in our volunteers is their passion to work for an upliftment of our nation India and to protect the environment for future generations.</p>
-                            <Link to="#" className="theme-btn">Donate Now<i className="fa fa-angle-double-right" aria-hidden="true"></i></Link>
                         </div>
                     </div>
                     <div className="col-lg-7">
